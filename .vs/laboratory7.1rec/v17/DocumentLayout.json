@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\laboratory works\\laboratory7.1rec\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E87FF792-19CD-471C-947D-9EF12ABF0D00}|laboratory7.1rec\\laboratory7.1rec.vcxproj|C:\\laboratory works\\laboratory7.1rec\\laboratory7.1rec\\laboratory7.1rec.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E87FF792-19CD-471C-947D-9EF12ABF0D00}|laboratory7.1rec\\laboratory7.1rec.vcxproj|solutionrelative:laboratory7.1rec\\laboratory7.1rec.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BD54E0A-BDD6-473E-BC90-58D1E8523B00}|UnitTest7.1rec\\UnitTest7.1rec.vcxproj|C:\\laboratory works\\laboratory7.1rec\\UnitTest7.1rec\\UnitTest7.1rec.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2BD54E0A-BDD6-473E-BC90-58D1E8523B00}|UnitTest7.1rec\\UnitTest7.1rec.vcxproj|solutionrelative:UnitTest7.1rec\\UnitTest7.1rec.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest7.1rec.cpp",
+              "DocumentMoniker": "C:\\laboratory works\\laboratory7.1rec\\UnitTest7.1rec\\UnitTest7.1rec.cpp",
+              "RelativeDocumentMoniker": "UnitTest7.1rec\\UnitTest7.1rec.cpp",
+              "ToolTip": "C:\\laboratory works\\laboratory7.1rec\\UnitTest7.1rec\\UnitTest7.1rec.cpp",
+              "RelativeToolTip": "UnitTest7.1rec\\UnitTest7.1rec.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-05T20:58:56.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "laboratory7.1rec.cpp",
+              "DocumentMoniker": "C:\\laboratory works\\laboratory7.1rec\\laboratory7.1rec\\laboratory7.1rec.cpp",
+              "RelativeDocumentMoniker": "laboratory7.1rec\\laboratory7.1rec.cpp",
+              "ToolTip": "C:\\laboratory works\\laboratory7.1rec\\laboratory7.1rec\\laboratory7.1rec.cpp",
+              "RelativeToolTip": "laboratory7.1rec\\laboratory7.1rec.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-02T20:39:17.54Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
